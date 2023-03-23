@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nathaniel Bajo.
-- 👀 I’m interested in job offers.
+- 👀 I’m open to job offers.
 - 🌱 I’m currently learning Rust programming language.
 - 💞️ I’m looking to collaborate with rust developers.
 - 📫 You can reach me via email bajon7680@gmail.com

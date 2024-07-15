@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Nathaniel Bajo. <br> 🦀 I squash bugs to make a living. <br> 👀 I’m open to job offers.<br> 💞️ I’m looking to collaborate with rust developers. <br> 📫 You can reach me via email bajon7680@gmail.com 
+👋 Hi, I’m Nathaniel Bajo. <br> 🦀 I squash bugs to make a living. <br> 👀 I’m open to job offers.<br> 💞️ I’m looking to collaborate with rust developers. <br> 📫 You can reach me via: email bajon7680@gmail.com || https://x.com/nathaniel_bajo
 
 
 # 💻 Tech Stack:
